@@ -1,6 +1,7 @@
 # CrisisResponse
 
 We're Hunter College Computer Science students working on a data science project together through CUNY Tech Prep 2024.
+View weekly updates [below](#weekly-updates).
 
 In this team: Tedd Lee, Aaleia Fernando
 
