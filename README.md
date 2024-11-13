@@ -7,7 +7,7 @@ In this team: Tedd Lee, Aaleia Fernando
 
 # The Spiel
 ## Analyzing EMS Computer Aided Dispatch System Data from the FDNY :phone::rotating_light:
-* EMS personell respond to a wide variety of calls, including both physical and mental health emergencies. Our project aims to improve the accuracy of determining NYC EMS call type before completion of the call, with the ultimate purpose of improving the actual response to such emergencies by ensuring the right personell and resources are made available on-site as soon as possible. Currently, there is about 90% accuracy in determining call type when a call is first placed -- we believe that we can do better.
+* EMS personel respond to a wide variety of calls, including both physical and mental health emergencies. Our project aims to improve the accuracy of determining NYC EMS call type before completion of the call, with the ultimate purpose of improving the actual response to such emergencies by ensuring the right personell and resources are made available on-site as soon as possible. Currently, there is about 90% accuracy in determining call type when a call is first placed -- we believe that we can do better.
 
 ### Team member responsibilities:
 * Tedd:
@@ -62,7 +62,7 @@ In this team: Tedd Lee, Aaleia Fernando
 * [x] Initial random forest model complete
 * [ ] Optimize for higher accuracy (try using gradient-boosting) (T)
 * [ ] Incorporate new data (start with weather data) (A)
-* [ ] Begin frontend build
+* [ ] Ideation for frontend build
 
 ### OCT 30
 * [x] outline the rest of the project MVP, weekly goals, project direction
