@@ -57,6 +57,8 @@ In this team: Tedd Lee, Aaleia Fernando
 * [ ] Develop a final presentation
 
 # Weekly Updates:
+### NOV 20
+* [ ] Invest time in label grouping
 
 ### NOV 6
 * [x] Initial random forest model complete
