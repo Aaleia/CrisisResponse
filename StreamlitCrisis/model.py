@@ -25,8 +25,6 @@ def encode(data):
 
 
 def predict(params):
-	print(params)
-
 	try:
 		res = model.predict(params)
 
